@@ -12,12 +12,12 @@ To access the resources, simply navigate to the repository page. The resources a
 
 ## Links
 
-- [MATH5743M: Statistical Learning](https://github.com/UniLeeds/MATH5743M)
-- [COMP5450M: Knowledge Representation and Reasoning](https://github.com/UniLeeds/COMP5450M)
-- [COMP5712M: Programming for Data Science](https://github.com/UniLeeds/COMP5712M)
-- [COMP5623M: Artificial Intelligence](https://github.com/UniLeeds/COMP5450M)
-- [COMP5611M: Machine Learning](https://github.com/UniLeeds/COMP5611M)
-- [MATH5741M: Statistical Theory and Methods](https://github.com/UniLeeds/MATH5741M)
+- [MATH5743M: Statistical Learning](https://unileeds.github.io/MATH5743M/)
+- [COMP5450M: Knowledge Representation and Reasoning](https://unileeds.github.io/COMP5450M/)
+- [COMP5712M: Programming for Data Science](https://unileeds.github.io/COMP5712M/)
+- [COMP5623M: Artificial Intelligence](https://unileeds.github.io/COMP5623M/)
+- [COMP5611M: Machine Learning](https://unileeds.github.io/COMP5611M/)
+- [MATH5741M: Statistical Theory and Methods](https://unileeds.github.io/MATH5741M)
 
 ## Contributing
 
