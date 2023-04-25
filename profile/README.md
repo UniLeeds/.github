@@ -1,4 +1,4 @@
-# University of Leeds Resource Archive
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=University%20of%20Leeds&fontAlign=60&fontAlignY=40&desc=Resource%20Archive&descAlign=85&color=timeGradient)
 
 This repository contains a collection of resources for past Data Science students from the University of Leeds, including lecture notes, assignments, and projects.
 
@@ -15,3 +15,6 @@ To access the resources, simply navigate to the repository page. The resources a
 ## Contributing
 
 Contributions to this repository are welcome and encouraged from anyone, regardless of whether they are a past Data Science student at the University of Leeds or not. Please create a pull request with your additions or contact me on adding you to this organisation.
+
+
+![footer](https://capsule-render-kusadtfih-dipanspotify.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer)
